@@ -1,6 +1,6 @@
 # AI Integration Mini-Lab – Streamlit Chatbot
 
-## DEMO VIDEO.
+## DEMO VIDEO
 
 
 
