@@ -1,0 +1,8 @@
+The GPT-4.1-mini model was selected because it provides a good balance between performance, speed, 
+and cost efficiency for small applications such as chatbots. The model is capable of understanding 
+natural language questions and generating coherent responses while maintaining relatively low latency, 
+which makes it well suited for real-time interaction in a Streamlit web interface. Additionally, 
+the OpenAI API offers a simple and well-documented integration with Python, allowing developers to 
+quickly prototype AI-powered features without requiring complex machine learning infrastructure. 
+For this mini-lab project, GPT-4.1-mini was an appropriate choice because it enables reliable 
+question-answering functionality while keeping the implementation lightweight and easy to manage.

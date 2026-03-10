@@ -1,0 +1,9 @@
+Artificial intelligence models can reflect biases present in the data used during training, 
+which may influence the responses they generate. Because of this, AI outputs should not always be 
+considered fully accurate or unbiased. Developers must be aware of these limitations and design 
+applications that encourage responsible use of AI systems. In this project, the chatbot is intended
+ only as a demonstration of AI integration and experimentation with natural language processing. 
+ Users should verify important information from reliable sources rather than relying solely on the 
+ AI’s responses. Responsible AI development includes transparency about the models used, awareness 
+ of potential bias, and careful evaluation of generated outputs before applying them in real-world 
+ contexts.
