@@ -2,7 +2,7 @@
 
 ## DEMO VIDEO
 
-
+https://github.com/user-attachments/assets/ba88f34f-aa6a-484c-9da0-4f52a2be5b32
 
 ## Project Overview
 This project demonstrates a simple AI-powered chatbot built using Python, Streamlit, and the OpenAI API. The application allows users to input a question and receive a generated response from a language model. The goal of the project is to experiment with integrating modern AI APIs into a lightweight software application while following basic Agile development practices.
